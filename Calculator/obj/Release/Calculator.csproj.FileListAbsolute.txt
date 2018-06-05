@@ -1,0 +1,8 @@
+C:\Users\Karim Noor Ali\Documents\Visual Studio 2015\Projects\Calculator\bin\Release\Calculator.exe.config
+C:\Users\Karim Noor Ali\Documents\Visual Studio 2015\Projects\Calculator\bin\Release\Calculator.exe
+C:\Users\Karim Noor Ali\Documents\Visual Studio 2015\Projects\Calculator\bin\Release\Calculator.pdb
+C:\Users\Karim Noor Ali\Documents\Visual Studio 2015\Projects\Calculator\obj\Release\Calculator.Form1.resources
+C:\Users\Karim Noor Ali\Documents\Visual Studio 2015\Projects\Calculator\obj\Release\Calculator.Properties.Resources.resources
+C:\Users\Karim Noor Ali\Documents\Visual Studio 2015\Projects\Calculator\obj\Release\Calculator.csproj.GenerateResource.Cache
+C:\Users\Karim Noor Ali\Documents\Visual Studio 2015\Projects\Calculator\obj\Release\Calculator.exe
+C:\Users\Karim Noor Ali\Documents\Visual Studio 2015\Projects\Calculator\obj\Release\Calculator.pdb
